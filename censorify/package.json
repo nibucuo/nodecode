@@ -1,0 +1,11 @@
+{
+    "author": "Jacob",
+    "name": "censorify",
+    "version": "1.0.0",
+    "description": "censors words out of text",
+    "main": "censortext",
+    "dependencies": {},
+    "engines": {
+        "node": ""
+    }
+}
